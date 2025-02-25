@@ -10,6 +10,7 @@
    ```
    TELEGRAM_BOT_TOKEN=your_telegram_bot_token
    MISTRAL_API_KEY=your_mistral_api_key
+   GOOGLE_AI_API_KEY=your_google_api_key
    ```
 
 ## Запуск
